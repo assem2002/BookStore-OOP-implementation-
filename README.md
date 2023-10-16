@@ -21,5 +21,5 @@ it's divided into these main classes:
 just download the .exe file and signup.
 
 there's a dummy admin mode with the the credintials :
- username:reader1
- password:9999
+ (username:reader1)
+ (password:9999)
